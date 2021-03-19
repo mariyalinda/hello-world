@@ -69,7 +69,7 @@ main section:not(:last-child) {
   border-bottom: 1px solid #ccc;
 }
 
-.fab {
+.fab,.far {
   border: 1px solid white;
   border-radius: 50%;
   font-size: 1.5em;
@@ -78,9 +78,10 @@ main section:not(:last-child) {
   line-height: 1.5em;
   margin: 5px;
   text-align: center;
+  color: white;
 }
 
-a .fab {
+a .fab,a.far{
   color: white;
 }
 
