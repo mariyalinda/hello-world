@@ -1,2 +1,2 @@
-# hello-world
-simple resume
+ ✨ _A simple portfolio using HTML and CSS_ ✨
+
